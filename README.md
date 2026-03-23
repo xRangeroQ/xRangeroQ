@@ -24,7 +24,7 @@ Software developer focusing on **Low-Level Systems**, **Network Security**, and 
 
 ---
 
-### 📊 GitHub Statistics (xRangeroQ)
+### 📊 GitHub Statistics
 
 | ![General Stats](https://github-readme-stats.vercel.app/api?username=xRangeroQ&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xRangeroQ&layout=compact&theme=radical&hide_border=true) |
 | :--- | :--- |
