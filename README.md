@@ -5,7 +5,7 @@ Software developer focusing on **Low-Level Systems**, **Network Security**, and 
 ---
 
 ## 💻 Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,python,html,css,js,php,sqlite,mysql,arduino,androidstudio,cmake,docker,dotnet,lua,nodejs,linux,kali,arch,git,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,python,html,css,js,php,sqlite,mysql,arduino,androidstudio,cmake,docker,dotnet,lua,nodejs,linux,kali,arch,git,vscode&perline=12)](https://skillicons.dev)
 
 ---
 
